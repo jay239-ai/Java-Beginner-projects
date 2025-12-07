@@ -1,18 +1,14 @@
-## Getting Started
+# Java Beginner Projects
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains three beginner-friendly Java programs:
 
-## Folder Structure
+### 1. Age Calculator  
+Allows users to enter their birth year and calculates their age.
 
-The workspace contains two folders by default, where:
+### 2. Grade Calculator  
+Takes marks as input and returns the grade (A, B, C, etc).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 3. Simple Calculator  
+Performs basic operations like addition, subtraction, multiplication, and division.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+All programs run in the terminal and are beginner-friendly examples for Java learners.
